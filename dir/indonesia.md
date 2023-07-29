@@ -15,7 +15,7 @@
 - Julo: https://medium.com/julotech
 - Modalku: https://medium.com/fsmk-engineering
 - RuangGuru: https://medium.com/ruangguru
-- TIket: https://medium.com/tiket-com
+- Tiket: https://medium.com/tiket-com
 - Tokopedia: https://medium.com/tokopedia-engineering
 - Traveloka: https://medium.com/traveloka-engineering
 - Xendit: https://blog.xendit.engineer/
