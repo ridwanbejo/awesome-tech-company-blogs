@@ -14,7 +14,7 @@
 | Instagram | - | - | - |
 | LinkedIn | - | - | - |
 | Lyft | - | - | - |
-| Medium | https://medium.engineering/ | - | - |
+| Medium | https://medium.engineering/ | data, kubernetes, engineering practice, mobile, frontend, testing, culture | - |
 | Meta | - | - | - |
 | Netflix | - | - | - |
 | PayPal | - | - | - |
