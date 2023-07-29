@@ -1,10 +1,10 @@
-# Awesome Tech Company Blogs - Singapore
+# Awesome Tech Company Blogs - USA
 
 | Tech Company Name | URL | Topics | Github Orgs |
 |-------------------|-----|--------|-------------|
 | AirBnb | - | - | - |
-| Amazon | - | - |
-| Apple | - | - |
+| Amazon | - | - | - |
+| Apple | - | - | - |
 | CloudFlare | - | - |
 | Disney+ Hotstar | - | - | - |
 | Dropbox | - | - | - |
