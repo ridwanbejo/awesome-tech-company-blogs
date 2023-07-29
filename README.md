@@ -8,6 +8,7 @@ Find engineering and technical secret from tech companies in every countries on 
 * Most articles are covering computer science, big data, cloud infrastructure, internal engineering practice or anything related to IT
 * Find particular country of the company HQ (e.g. Indonesia, Singapore, USA, etc)
 * Put the tech company and the URL in markdown file for particular country
+* Sort the tech company list by using your text editor
 * Your MR will be reviewed by the reviewer
 
 ## List of available countries
@@ -39,7 +40,7 @@ Find engineering and technical secret from tech companies in every countries on 
 * Phillipines
 * Russia
 * Saudi Arabia
-* [Singapore 🇸🇬](dir/indonesia.md)
+* [Singapore 🇸🇬](dir/singapore.md)
 * South Africa
 * South Korea
 * Spain

@@ -1,21 +1,21 @@
 # Awesome Tech Company Blogs - Indonesia
 
-- DKatalis + Bank Jago: https://medium.com/dkatalis
-- Julo: https://medium.com/julotech
-- Gojek: https://medium.com/gojekengineering
-- Tokopedia: https://medium.com/tokopedia-engineering
-- Bukalapak: https://medium.com/inside-bukalapak/engineering/home
-- Traveloka: https://medium.com/traveloka-engineering
-- Blibli: https://medium.com/bliblidotcom-techblog
-- Flip: https://tech.flip.id/tag/engineering/
-- GovTech Edu: https://medium.com/@cultureandtalentgovtechedu
-- RuangGuru: https://medium.com/ruangguru
-- Efishery: https://medium.com/efishery-engineering
-- Xendit: https://blog.xendit.engineer/
-- Bibit/Stockbibit: https://medium.com/stockbit-bibit-engineering
-- Evermos: https://medium.com/evermos-tech
-- Bobobox: https://medium.com/bobobox-engineering
 - AccelByte: https://accelbyteinc.medium.com/
-- TIket: https://medium.com/tiket-com
-- Modalku: https://medium.com/fsmk-engineering
+- Bibit/Stockbibit: https://medium.com/stockbit-bibit-engineering
+- Blibli: https://medium.com/bliblidotcom-techblog
+- Bobobox: https://medium.com/bobobox-engineering
+- Bukalapak: https://medium.com/inside-bukalapak/engineering/home
 - Dana: https://medium.com/dana-engineering
+- DKatalis + Bank Jago: https://medium.com/dkatalis
+- Efishery: https://medium.com/efishery-engineering
+- Evermos: https://medium.com/evermos-tech
+- Flip: https://tech.flip.id/tag/engineering/
+- Gojek: https://medium.com/gojekengineering
+- GovTech Edu: https://medium.com/@cultureandtalentgovtechedu
+- Julo: https://medium.com/julotech
+- Modalku: https://medium.com/fsmk-engineering
+- RuangGuru: https://medium.com/ruangguru
+- TIket: https://medium.com/tiket-com
+- Tokopedia: https://medium.com/tokopedia-engineering
+- Traveloka: https://medium.com/traveloka-engineering
+- Xendit: https://blog.xendit.engineer/
