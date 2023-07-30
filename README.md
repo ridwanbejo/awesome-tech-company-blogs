@@ -17,7 +17,7 @@ Find engineering and technical secret from tech companies in every countries on 
 * Austria
 * Belgium
 * Brazil
-* Canada
+* [Canada 🇨🇦](dir/canada.md)
 * China
 * Denmark
 * Egypt
@@ -25,7 +25,6 @@ Find engineering and technical secret from tech companies in every countries on 
 * Finlandia
 * France
 * Germany
-* Hong Kong SAR
 * India
 * [Indonesia 🇮🇩](dir/indonesia.md)
 * Israel
