@@ -32,7 +32,7 @@ Find engineering and technical secret from tech companies in every countries on 
 * Japan
 * Malaysia
 * Mexico
-* Netherland
+* [Netherlands 🇳🇱](dir/netherlands.md)
 * New Zealand
 * Norwegia
 * Pakistan

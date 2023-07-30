@@ -5,7 +5,7 @@
 | AccelByte | https://accelbyteinc.medium.com/ | engineering practice, backend, game development, compliance | https://github.com/AccelByte |
 | Bibit/Stockbibit | https://medium.com/stockbit-bibit-engineering | engineering practice, mobile, infrastructure, security, kubernetes | - |
 | Blibli | https://medium.com/bliblidotcom-techblog | engineering practice, frontend, big data, cinfrastructure, testing, SRE | https://github.com/bliblidotcom |
-| Bobobox | https://medium.com/bobobox-engineering | mobile, frontend| - |
+| Bobobox | https://medium.com/bobobox-engineering | mobile, frontend| https://github.com/bobobox-id |
 | Bukalapak | https://medium.com/inside-bukalapak/engineering/home | engineering practice, product design, quality assurance, product management | https://github.com/bukalapak |
 | Dana | https://medium.com/dana-engineering | technology, UI/UX design, product management | - |
 | DKatalis + Bank Jago | https://medium.com/dkatalis | tech, engineering practice, data, product & design | - |
