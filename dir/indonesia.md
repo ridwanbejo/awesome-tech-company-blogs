@@ -15,6 +15,7 @@
 | Gojek | https://medium.com/gojekengineering | tech, data, culture, design | https://github.com/gojek |
 | GovTech Edu | https://medium.com/@cultureandtalentgovtechedu | tech, data, culture, infrastructure | - |
 | Julo | https://medium.com/julotech | backend, engineering practice, mobile, infrastructure, testing, frontend | https://github.com/julofinance |
+| Kargo | https://medium.com/kargo-engineering | tech, product, culture | https://github.com/kargotech |
 | Mitrais | https://www.mitrais.com/blog/ | engineering, mobile, testing, backend, frontend, culture | - |
 | Modalku | https://medium.com/fsmk-engineering | serverless, data, backend, engineering practice, security, testing, frontend, compliance, infrastructure | https://github.com/fundingasiagroup |
 | RuangGuru | https://medium.com/ruangguru | tech, product, engineering practice | https://github.com/ruang-guru |
@@ -22,4 +23,6 @@
 | Tokopedia | https://medium.com/tokopedia-engineering | mobile, frontend, backend, infrastructure, data| https://github.com/tokopedia |
 | Traveloka | https://medium.com/traveloka-engineering | data, tech, security, infrastructure, mobile, frontend | https://github.com/traveloka |
 | Ula | https://medium.com/ula-engineering | infrastructure, engineering practice, backend | https://github.com/uladotapp |
+| Vidio | https://medium.com/vidio | backend, mobile, culture, engineering practice, frontend, infrastructure | - | 
+| Waresix | https://waresix.engineering/ | testing, mobile, backend, frontend, infrastructure | https://github.com/waresix |
 | Xendit | https://blog.xendit.engineer/ | infrastructure, backend, engineering practice, kubernetes | https://github.com/xendit |
