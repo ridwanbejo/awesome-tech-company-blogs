@@ -41,7 +41,7 @@ Find engineering and technical secret from tech companies in every countries on 
 * Saudi Arabia
 * [Singapore 🇸🇬](dir/singapore.md)
 * South Africa
-* South Korea
+* [South Korea 🇰🇷](dir/south-korea.md)
 * Spain
 * Swedia
 * Thailand
