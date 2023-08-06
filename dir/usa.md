@@ -5,6 +5,7 @@
 | Adobe | https://blog.developer.adobe.com/ | developer experience, engineering, security, product | https://github.com/adobe |
 | AirBnb | https://medium.com/airbnb-engineering | data, AI, machine learning, mobile, frontend, infrastructure, open source, cultulre | https://github.com/airbnb |
 | Amazon Web Services| https://aws.amazon.com/blogs/ | cloud computing, serverless, infrastructure, backend, frontend, mobile, security | https://github.com/aws |
+| Artsy | https://artsy.github.io/ | culture, frontend, backend, infrastructure, testing, data, mobile | https://github.com/artsy |
 | Apple | https://developer.apple.com/news/ | releases, engineering, design, security | https://github.com/apple |
 | CloudFlare | https://blog.cloudflare.com/ | engineering, releases, SRE, security, serverless, culture | https://github.com/cloudflare |
 | Disney Streaming (Hulu, ESPN+, Star+, Disney+) | https://medium.com/disney-streaming | product, design, data science, scala, backend, infrastructure, frontend, mobile, culture | https://github.com/disneystreaming |
